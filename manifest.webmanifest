@@ -11,7 +11,6 @@
   "background_color": "#f4f2fb",
   "theme_color": "#f4f2fb",
   "icons": [
-    {"src": "https://ozzysul.github.io/Poker-calculator/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
-    {"src": "https://ozzysul.github.io/Poker-calculator/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+    {"src": "New%20logo%201%20.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any"}
   ]
 }
